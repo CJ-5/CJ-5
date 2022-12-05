@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning AI & Backend Development
 - 📫 How to reach me -> cj-5@tgwa.ca
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
