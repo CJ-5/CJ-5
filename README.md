@@ -1,6 +1,4 @@
-I make things that interest me :)
-
-Reach me -> cj-5@tgwa.ca
+Reach me: cj-5@tgwa.ca
 
 <p align="center"> 
   Visitor count<br>
